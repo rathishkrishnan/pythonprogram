@@ -1,0 +1,9 @@
+a=12
+b=36
+c=26
+print((a&b)&c)
+print((b|c)|a)
+print((a~c)~b)
+print((c^b)^a)
+print((a>>c)>>b)
+print((b<<a)<<c)
