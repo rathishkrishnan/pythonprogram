@@ -1,0 +1,5 @@
+f=open('text.txt','r')
+#print(f.read())
+#print(f.readline())
+#print(f.readlines())
+print(f.read(10))
